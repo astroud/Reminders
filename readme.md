@@ -35,11 +35,11 @@ The [reminders.icns][5] icon used for the app's icon was created by [Babasse][6]
 
 The [exercise.png][7] icon used for exercise prompts was created by [Rokey][9].
 
-[2] : http://growl.info/
-[3] : http://growl.info/extras.php#growlnotify
-[4] : http://sveinbjorn.org/platypus	
-[5] : http://www.iconfinder.com/icondetails/37702/128/coffee_cup_drink_java_icon
-[6] : http://babasse.deviantart.com/
-[7] : http://www.iconfinder.com/icondetails/41557/128/surrender_icon
-[8] : http://rokey.deviantart.com/art/eico-1-year-25294190
-[9] : http://www.rokey.net/
+[2]: http://growl.info/
+[3]: http://growl.info/extras.php#growlnotify
+[4]: http://sveinbjorn.org/platypus	
+[5]: http://www.iconfinder.com/icondetails/37702/128/coffee_cup_drink_java_icon
+[6]: http://babasse.deviantart.com/
+[7]: http://www.iconfinder.com/icondetails/41557/128/surrender_icon
+[8]: http://rokey.deviantart.com/art/eico-1-year-25294190
+[9]: http://www.rokey.net/
